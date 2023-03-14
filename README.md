@@ -21,8 +21,10 @@ Adrien Joly
 # Travail à faire
 
 Vous devez cloner ce dépôt, modifier le fichier **index.html** en ajoutant une ligne du tableau vous correspondant.
-Il faut égalemet ajouter une photo (ou avatar) dans le dossier **photos**.
+Il faut également ajouter une photo (ou avatar) dans le dossier **photos**.
 
 Une fois terminée, votre modification doit être **push** sur la branche **main**.
+
+Il faudra, avant d'envoyer votre modification indiquer à l'enseignant votre identifiant GitHub afin d'être ajouté comme collaborateurs au projet.
 
 Les résultats se verront sous peu à l'adresse suivante: https://liliwol.github.io/GitHub-trombi/ 
