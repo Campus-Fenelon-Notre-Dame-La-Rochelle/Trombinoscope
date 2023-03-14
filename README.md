@@ -1,6 +1,6 @@
 # Github Trombinoscope
 
-Trombinoscope collaboratif des étudiants du BTS SIO SLAM Lycée Fénelon La Rochelle
+Trombinoscope collaboratif des étudiants du BTS SIO SLAM Lycée Fénelon La Rochelle.
 
 # Source
 
