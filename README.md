@@ -2,6 +2,8 @@
 
 Trombinoscope collaboratif des étudiants du BTS SIO SLAM Lycée Fénelon La Rochelle.
 
+![](readme_docs/app.png)
+
 # Source
 
 Adrien Joly
@@ -38,4 +40,4 @@ A la toute fin, les branches seront fusionnées sur la branche **main** et les c
 
 Il faudra, avant d'envoyer votre modification indiquer à l'enseignant votre identifiant GitHub afin d'être ajouté comme collaborateurs au projet.
 
-Les résultats se verront à la fin à l'adresse suivante: https://liliwol.github.io/GitHub-trombi/ 
+Les résultats se verront à la fin à l'adresse suivante: https://liliwol.github.io/GitHub-Trombinoscope/ 
